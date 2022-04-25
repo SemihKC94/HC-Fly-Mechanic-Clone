@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c5c734cf8c1e7846a3912f7888b7555, type: 3}
+  m_Name: Level 4
+  m_EditorClassIdentifier: 
+  levelPrefab: {fileID: 2301662330807127774, guid: a39b1f4292466a44d9eafbe2c24e9908,
+    type: 3}
+  uniqueSkyBox: {fileID: 2100000, guid: ebd347262fc9dfc44b6108d0e1095336, type: 2}
